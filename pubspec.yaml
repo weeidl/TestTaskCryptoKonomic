@@ -1,0 +1,39 @@
+name: test_task_crypto_konomic
+description: Test project for konomic
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_svg: 1.1.0
+  web3dart: ^2.6.1
+  http: ^0.13.5
+  provider: ^6.0.5
+  flutter_bloc: 8.0.1
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/abi/abi.json
+
+  fonts:
+    - family: Livvic
+      fonts:
+        - asset: assets/fonts/Livvic-SemiBold.ttf
+    - family: LivvicBold
+      fonts:
+        - asset: assets/fonts/Livvic-Bold.ttf
