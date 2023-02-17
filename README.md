@@ -1,7 +1,7 @@
 # Test Task Crypto Konomic
    
-### Description:
-## Application for displaying the exchange rate in the BNB network of token A to token B on pancacke swap.
+## Description:
+### Application for displaying the exchange rate in the BNB network of token A to token B on pancacke swap.
   
 ## 
 <p align="center">
