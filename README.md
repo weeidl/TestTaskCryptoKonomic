@@ -1,16 +1,17 @@
-# test_task_crypto_konomic
+# Test Task Crypto Konomic
+   
+### Description:
+## Application for displaying the exchange rate in the BNB network of token A to token B on pancacke swap.
+  
+## 
+<p align="center">
+   <img src="https://github.com/weeidl/testTaskCryptoKonomic/blob/master/image/screen_one.png" width="200" title="weeidl">
+   <img src="https://github.com/weeidl/testTaskCryptoKonomic/blob/master/image/screen_two.png" width="200" title="weeidl">
+   <img src="https://github.com/weeidl/testTaskCryptoKonomic/blob/master/image/screen_three.png" width="200" title="weeidl">
+</p>
 
-Test project for konomic
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##
+### Follow Me
+[![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/weeidl/)
+[![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/weeidl)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05151e?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/weeidl/)
